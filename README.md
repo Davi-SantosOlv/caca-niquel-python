@@ -15,7 +15,7 @@ Durante o desenvolvimento, tive meu primeiro contato com:
 1. Certifique-se de ter o Python instalado.
 2. Clone este repositório:
    ```bash
-   git clone https://github.com/Davi-SantosOlv/caca-niquel-python
+   git clone https://github.com/Davi-SantosOlv/caca-niquel-python.git
    ```
 3. Entre na pasta do projeto e execute:
    ```bash
